@@ -28,3 +28,5 @@ The collected data will be saved in dataset floder in root path.
 run real_time_detection/GUI/start_GUI.py and the process will start.
 ![image](https://github.com/yongruihuang/Eumpy/blob/master/image/Figure2.png)
 <p align="center">Figure 2: the screenshot for data visualization</p>
+
+## For more information and how to use those api, download the document from: https://github.com/yongruihuang/Eumpy/tree/gh-pages/document and try more.
